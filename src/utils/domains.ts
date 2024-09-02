@@ -8,4 +8,5 @@ export const domains: { [domain: string]: DomainType } = {
   "woke.cat": DomainType.FILE,
   // "lesbian.cat": DomainType.FILE,
   "is-extremely.gay": DomainType.FILE,
+  "the-gay.squirrel": DomainType.FILE,
 };
